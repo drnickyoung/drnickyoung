@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @drnickyoung
-- 👀 I’m interested in Amiga, Arduino, Raspberry Pi, IoT, etc.
+- 👀 I’m interested in Amiga, Arduino, Raspberry Pi, IoT, Linux, WordPress, Teaching, Training, History, etc.
 - 📫 How to reach me https://nickbits.co.uk/
 - 🔗 Find me on Twitter: https://twitter.com/drnickyoung
+- 🔗 Find me on Mastodon: https://mastodonapp.uk/@drnickyoung
